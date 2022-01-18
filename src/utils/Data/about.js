@@ -1,0 +1,3 @@
+export const AboutData = {
+    description: 'I am an undergraduate student at IIIT Bhubaneswar. I am a Full-stack developer. I have a keen interest in web development and web technologies. I develop web applications using NextJs, ReactJs, and NodeJs. I am also having experience in the deployment of websites in a sever, VPS. I have contributed to a conference paper titled ONLINE-BASED SMART ENERGY METER which would be published by Springer-LNEE.'
+}
